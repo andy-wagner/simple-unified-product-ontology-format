@@ -19,7 +19,7 @@ A simple example could be:
 definitions:
 - : domain 
   id: 436 
-  labels: furniture
+  labels: home
   - : product
     id: 443
     labels: chair
