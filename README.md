@@ -1,5 +1,5 @@
 # simple-unified-product-ontology-format
-Draft of a simplified ontology format specially designed from a search and retrieval perspective
+Draft of a simplified ontology format specially designed from a proudct search and retrieval perspective
 
 This repository holds proposals and tools for crafting a simple unified product ontology format.
 
@@ -12,7 +12,6 @@ This repository holds proposals and tools for crafting a simple unified product 
 
 ## Format proposal
 
-We strive for a format parsable and validatable using a standard tool. 
 A simple example could be:
 
 ```yaml
