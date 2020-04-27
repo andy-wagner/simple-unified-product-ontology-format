@@ -1,5 +1,5 @@
 # simple-unified-product-ontology-format
-Draft of a simplified ontology format specially designed from a proudct search and retrieval perspective
+Draft of a simplified ontology format specially designed from a product search and retrieval perspective
 
 This repository holds proposals and tools for crafting a simple unified product ontology format.
 
